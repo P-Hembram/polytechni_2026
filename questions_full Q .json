@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "question": "SI इकाई बल की क्या है?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "वेग का SI मात्रक?",
+    "options": [
+      "N",
+      "km/h",
+      "m²",
+      "m/s"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "गुरुत्वीय त्वरण का मान?",
+    "options": [
+      "8.9 m/s²",
+      "9.8 m/s²",
+      "10 m/s²",
+      "9 m/s²"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "कार्य की SI इकाई?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "शक्ति की SI इकाई?",
+    "options": [
+      "Ampere",
+      "Joule",
+      "Newton",
+      "Watt"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "question": "ऊर्जा की SI इकाई?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Volt",
+      "Watt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "न्यूटन का प्रथम नियम किससे संबंधित है?",
+    "options": [
+      "ऊर्जा",
+      "दाब",
+      "जड़त्व",
+      "बल"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "संवेग = ?",
+    "options": [
+      "कार्य × समय",
+      "दाब × क्षेत्रफल",
+      "द्रव्यमान × वेग",
+      "बल × समय"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "पृथ्वी पर भार अधिकतम कहाँ होता है?",
+    "options": [
+      "समुद्र में",
+      "पर्वत पर",
+      "ध्रुवों पर",
+      "भूमध्य रेखा पर"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "प्रकाश की चाल?",
+    "options": [
+      "3×10⁷ m/s",
+      "3×10⁹ m/s",
+      "3×10⁸ m/s",
+      "3×10⁶ m/s"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "दर्पण में बनने वाला प्रतिबिंब कैसा होता है?",
+    "options": [
+      "उल्टा",
+      "लघु",
+      "वास्तविक",
+      "आभासी"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "उत्तल लेंस किसे कहते हैं?",
+    "options": [
+      "अवतल दर्पण",
+      "अपसारी लेंस",
+      "अभिसारी लेंस",
+      "समतल लेंस"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "ध्वनि किस माध्यम में नहीं चलती?",
+    "options": [
+      "जल",
+      "ठोस",
+      "निर्वात",
+      "वायु"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "विद्युत धारा की SI इकाई क्या है?",
+    "options": [
+      "Ohm",
+      "Watt",
+      "Ampere",
+      "Volt"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "question": "प्रतिरोध की इकाई क्या है?",
+    "options": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Coulomb"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "ओम का नियम क्या है?",
+    "options": [
+      "F = ma",
+      "V = IR",
+      "W = Fs",
+      "P = VI"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "विद्युत शक्ति का सूत्र क्या है?",
+    "options": [
+      "V = IR",
+      "F = ma",
+      "E = mc²",
+      "P = VI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 18,
+    "question": "चुंबक के कितने ध्रुव होते हैं?",
+    "options": [
+      "एक",
+      "तीन",
+      "दो",
+      "चार"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "पृथ्वी एक विशाल क्या है?",
+    "options": [
+      "ग्रह",
+      "चुंबक",
+      "उपग्रह",
+      "तारा"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "आवृत्ति की इकाई क्या है?",
+    "options": [
+      "Newton",
+      "Hertz",
+      "Joule",
+      "Pascal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "तापमान की SI इकाई क्या है?",
+    "options": [
+      "Kelvin",
+      "Celsius",
+      "Fahrenheit",
+      "Joule"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "ऊष्मा किस प्रकार की ऊर्जा है?",
+    "options": [
+      "बल का रूप",
+      "दाब का रूप",
+      "ऊर्जा का रूप",
+      "संवेग का रूप"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "जल का क्वथनांक कितना होता है?",
+    "options": [
+      "0°C",
+      "50°C",
+      "212°C",
+      "100°C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 24,
+    "question": "जल का हिमांक कितना होता है?",
+    "options": [
+      "100°C",
+      "0°C",
+      "-100°C",
+      "32°C"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "घनत्व का सूत्र क्या है?",
+    "options": [
+      "आयतन/द्रव्यमान",
+      "बल/क्षेत्रफल",
+      "द्रव्यमान/आयतन",
+      "द्रव्यमान×आयतन"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "question": "दाब की SI इकाई क्या है?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "वायुदाब मापने का यंत्र कौन सा है?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hydrometer",
+      "Voltmeter"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "विद्युत आवेश की इकाई क्या है?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Coulomb"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "question": "इलेक्ट्रॉन पर किस प्रकार का आवेश होता है?",
+    "options": [
+      "ऋणात्मक",
+      "धनात्मक",
+      "उदासीन",
+      "द्विगुणित धनात्मक"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "प्रोटॉन पर किस प्रकार का आवेश होता है?",
+    "options": [
+      "ऋणात्मक",
+      "उदासीन",
+      "धनात्मक",
+      "द्विगुणित ऋणात्मक"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "question": "न्यूट्रॉन पर किस प्रकार का आवेश होता है?",
+    "options": [
+      "धनात्मक",
+      "शून्य",
+      "ऋणात्मक",
+      "द्विगुणित ऋणात्मक"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "परमाणु का केंद्र क्या कहलाता है?",
+    "options": [
+      "नाभिक",
+      "इलेक्ट्रॉन",
+      "प्रोटॉन",
+      "कक्षा"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "हाइड्रोजन का परमाणु क्रमांक क्या है?",
+    "options": [
+      "2",
+      "8",
+      "1",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "पानी का रासायनिक सूत्र क्या है?",
+    "options": [
+      "CO₂",
+      "O₂",
+      "H₂O",
+      "H₂SO₄"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "question": "प्रकाश वर्ष क्या है?",
+    "options": [
+      "समय की इकाई",
+      "दूरी की इकाई",
+      "ऊर्जा की इकाई",
+      "प्रकाश की तीव्रता की इकाई"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "सूर्य ऊर्जा किससे प्राप्त करता है?",
+    "options": [
+      "नाभिकीय विखंडन",
+      "दहन",
+      "रासायनिक अभिक्रिया",
+      "नाभिकीय संलयन"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "question": "ध्वनि की चाल हवा में लगभग कितनी होती है?",
+    "options": [
+      "340 m/s",
+      "300 m/s",
+      "3×10⁸ m/s",
+      "1500 m/s"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "कार्य कब शून्य होगा?",
+    "options": [
+      "बल अधिक हो",
+      "वेग अधिक हो",
+      "विस्थापन शून्य हो",
+      "ऊर्जा अधिक हो"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "question": "ऊर्जा संरक्षण का नियम क्या कहता है?",
+    "options": [
+      "ऊर्जा हमेशा बढ़ती है",
+      "ऊर्जा हमेशा घटती है",
+      "ऊर्जा नष्ट नहीं होती",
+      "ऊर्जा केवल ऊष्मा में बदलती है"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "लेंस की शक्ति की इकाई क्या है?",
+    "options": [
+      "Dioptre",
+      "Pascal",
+      "Newton",
+      "Hertz"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "question": "उत्तल दर्पण कैसा प्रतिबिंब बनाता है?",
+    "options": [
+      "वास्तविक एवं उल्टा",
+      "आभासी एवं सीधा",
+      "वास्तविक एवं सीधा",
+      "आभासी एवं उल्टा"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "अवतल दर्पण का उपयोग?",
+    "options": [
+      "धूप के चश्मों में",
+      "सड़कों के अंधे मोड़ों (Blind turns) पर",
+      "शेविंग मिरर",
+      "धूप के चश्मों में"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "question": "विद्युत सेल ऊर्जा बदलता है?",
+    "options": [
+      "विद्युत से रासायनिक",
+      "यांत्रिक से विद्युत",
+      "प्रकाश से रासायनिक",
+      "रासायनिक से विद्युत"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 44,
+    "question": "ट्रांसफॉर्मर किस धारा पर कार्य करता है?",
+    "options": [
+      "DC",
+      "AC",
+      "AC और DC दोनों",
+      "इनमें से कोई नहीं"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "DC का पूर्ण रूप?",
+    "options": [
+      "Direct Current",
+      "Digital Current",
+      "Distribution Current",
+      "Disconnect Current"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "question": "AC का पूर्ण रूप?",
+    "options": [
+      "Amperage Current",
+      "Amplified Current",
+      "Alternating Current",
+      "Automatic Current"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "question": "चुंबकीय क्षेत्र की इकाई?",
+    "options": [
+      "Weber",
+      "Tesla",
+      "Gauss",
+      "Henry"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 48,
+    "question": "फ्यूज किसलिए उपयोग होता है?",
+    "options": [
+      "सुरक्षा हेतु",
+      "धारा बढ़ाने के लिए",
+      "विभवांतर कम करने के लिए",
+      "ऊर्जा स्टोर करने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "question": "इंसुलेटर का उदाहरण?",
+    "options": [
+      "रबर",
+      "लोहा",
+      "एल्युमिनियम",
+      "चांदी"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "चालक का उदाहरण?",
+    "options": [
+      "प्लास्टिक",
+      "लकड़ी",
+      "ताँबा",
+      "कांच"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 51,
+    "question": "जल का घनत्व?",
+    "options": [
+      "1000 kg/m³",
+      "100 kg/m³",
+      "500 kg/m³",
+      "2000 kg/m³"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "question": "पृथ्वी का उपग्रह?",
+    "options": [
+      "सूर्य",
+      "मंगल",
+      "बुध",
+      "चन्द्रमा"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 53,
+    "question": "तरंग की चाल = ?",
+    "options": [
+      "f/λ",
+      "fλ",
+      "λ/f",
+      "f+λ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "question": "परावर्तन का नियम?",
+    "options": [
+      "i > r",
+      "i < r",
+      "i = r",
+      "i + r = 90°"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 55,
+    "question": "ध्वनि की तीव्रता किसमें मापते हैं?",
+    "options": [
+      "Hertz",
+      "Watt",
+      "Pascal",
+      "Decibel"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 56,
+    "question": "ऊर्जा का व्यावसायिक मात्रक?",
+    "options": [
+      "Joule",
+      "Watt",
+      "kWh",
+      "Calorie"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "question": "बैठरी में कितने टर्मिनल होते हैं?",
+    "options": [
+      "एक",
+      "दो",
+      "तीन",
+      "चार"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "विद्युत मोटर किस सिद्धांत पर?",
+    "options": [
+      "चुंबकीय प्रभाव",
+      "रासायनिक प्रभाव",
+      "ऊष्मीय प्रभाव",
+      "प्रकाश विद्युत प्रभाव"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "जनित्र क्या उत्पन्न करता है?",
+    "options": [
+      "यांत्रिक ऊर्जा",
+      "रासायनिक ऊर्जा",
+      "विद्युत ऊर्जा",
+      "ऊष्मीय ऊर्जा"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 60,
+    "question": "पृथ्वी का गुरुत्व बल किस प्रकार का बल है?",
+    "options": [
+      "प्रतिकर्षण बल",
+      "घर्षण बल",
+      "आकर्षण बल",
+      "चुंबकीय बल"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 61,
+    "question": "सरल लोलक का समयकाल?",
+    "options": [
+      "2π√(l/g)",
+      "2π√t(g/l)",
+      "π√(l/g)",
+      "2π(l/g)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "question": "द्रव्यमान की SI इकाई?",
+    "options": [
+      "g",
+      "kg",
+      "Newton",
+      "Joule"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "प्रकाश का परावर्तन किससे होता है?",
+    "options": [
+      "लेंस",
+      "कांच का गुटका",
+      "दर्पण",
+      "प्रिज्म"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 64,
+    "question": "ऊष्मा का संचरण कितने प्रकार से?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "चालकता अधिक किसमें?",
+    "options": [
+      "ताँबा",
+      "लोहा",
+      "चाँदी",
+      "एल्युमिनियम"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "question": "बैरोमीटर किसने बनाया?",
+    "options": [
+      "Galileo",
+      "Torricelli",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "लेजर किसका स्रोत है?",
+    "options": [
+      "ध्वनि",
+      "ऊष्मा",
+      "प्रकाश",
+      "विद्युत"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 68,
+    "question": "सूर्य ग्रहण कब होता है?",
+    "options": [
+      "पूर्णिमा",
+      "अमावस्या",
+      "एकादशी",
+      "प्रदोष"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "चन्द्र ग्रहण कब होता है?",
+    "options": [
+      "अमावस्या",
+      "चतुर्थी",
+      "पूर्णिमा",
+      "अष्टमी"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 70,
+    "question": "वोल्टेज मापने का यंत्र?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter",
+      "Galvanometer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "question": "धारा मापने का यंत्र?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter",
+      "Barometer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "प्रतिरोध मापने का यंत्र?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter",
+      "Lactometer"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "question": "पृथ्वी का पलायन वेग?",
+    "options": [
+      "11.2 km/s",
+      "9.8 m/s²",
+      "8 km/s",
+      "42 km/s"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "ऊर्जा का स्रोत कोयला क्या है?",
+    "options": [
+      "अनवीकरणीय",
+      "नवीकरणीय",
+      "वैकल्पिक",
+      "इनमें से कोई नहीं"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "question": "सौर ऊर्जा क्या है?",
+    "options": [
+      "अनवीकरणीय",
+      "परमाणु ऊर्जा",
+      "नवीकरणीय",
+      "सीमित ऊर्जा"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "question": "ताप बढ़ने पर प्रतिरोध?",
+    "options": [
+      "घटता है",
+      "अपरिवर्तित रहता है",
+      "बढ़ता है",
+      "शून्य हो जाता है"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "question": "ध्वनि तरंगें कैसी होती हैं?",
+    "options": [
+      "अनुप्रस्थ",
+      "विद्युत चुंबकीय",
+      "अनुदैर्ध्य",
+      "गैर-यांत्रिक"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 78,
+    "question": "प्रकाश तरंगें कैसी होती हैं?",
+    "options": [
+      "अनुप्रस्थ",
+      "अनुदैर्ध्य",
+      "ध्वनि तरंगें जैसी",
+      "यांत्रिक"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "विद्युत घंटी किस सिद्धांत पर?",
+    "options": [
+      "ऊष्मीय प्रभाव",
+      "विद्युत चुंबक",
+      "रासायनिक प्रभाव",
+      "स्व-प्रेरण"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "question": "चुम्बक का SI मात्रक?",
+    "options": [
+      "A·m²",
+      "Tesla",
+      "Weber",
+      "Gauss"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "न्यूटन का द्वितीय नियम?",
+    "options": [
+      "F = mv",
+      "F = ma",
+      "W = mg",
+      "P = mv"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "न्यूटन का तृतीय नियम?",
+    "options": [
+      "जड़त्व का नियम",
+      "संवेग संरक्षण",
+      "गुरुत्वाकर्षण",
+      "क्रिया-प्रतिक्रिया"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "question": "ऊर्जा का सबसे स्वच्छ स्रोत?",
+    "options": [
+      "सौर ऊर्जा",
+      "कोयला",
+      "पेट्रोलियम",
+      "नाभिकीय ऊर्जा"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "question": "पावर हाउस में ऊर्जा?",
+    "options": [
+      "यांत्रिक ऊर्जा",
+      "रासायनिक ऊर्जा",
+      "स्थितिज़ ऊर्जा",
+      "विद्युत ऊर्जा"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 85,
+    "question": "विद्युत बल्ब में फिलामेंट?",
+    "options": [
+      "टंगस्टन",
+      "नाइक्रोम",
+      "ताँबा",
+      "लोहा"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "question": "वायु में सबसे अधिक गैस?",
+    "options": [
+      "ऑक्सीजन",
+      "कार्बन डाइऑक्साइड",
+      "आर्गन",
+      "नाइट्रोजन"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 87,
+    "question": "गुरुत्वाकर्षण नियम किसने दिया?",
+    "options": [
+      "Galileo",
+      "Einstein",
+      "Newton",
+      "Dalton"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 88,
+    "question": "परमाणु सिद्धांत किसने दिया?",
+    "options": [
+      "Rutherford",
+      "J.J. Thomson",
+      "Bohr",
+      "Dalton"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 89,
+    "question": "इलेक्ट्रॉन की खोज?",
+    "options": [
+      "Rutherford",
+      "J.J. Thomson",
+      "Chadwick",
+      "Goldstein"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "नाभिक की खोज?",
+    "options": [
+      "Rutherford",
+      "J.J. Thomson",
+      "Dalton",
+      "Bohr"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "question": "प्रकाश का अपवर्तन क्या है?",
+    "options": [
+      "सतह से टकराकर लौटना",
+      "माध्यम बदलने पर मुड़ना",
+      "सात रंगों में टूटना",
+      "सीधी रेखा में चलना"
+    ],
+    "answer":1 
+  },
+  {
+    "id": 92,
+    "question": "पानी में डूबी वस्तु हल्की क्यों लगती है?",
+    "options": [
+      "गुरुत्वाकर्षण बल",
+      "उत्प्लावन बल",
+      "घर्षण बल",
+      "चुंबकीय बल"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "question": "आर्किमिडीज का सिद्धांत किससे संबंधित है?",
+    "options": [
+      "परावर्तन",
+      "अपवर्तन",
+      "धारा का प्रवाह",
+      "उत्प्लावन"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 94,
+    "question": "चन्द्रमा पर g का मान पृथ्वी से?",
+    "options": [
+      "अधिक",
+      "बराबर",
+      "कम",
+      "शून्य"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "question": "सबसे तेज तरंग?",
+    "options": [
+      "ध्वनि तरंग",
+      "जल तरंग",
+      "भूकंपीय तरंग",
+      "प्रकाश तरंग"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 96,
+    "question": "विद्युत आवेश संरक्षण नियम?",
+    "options": [
+      "आवेश नष्ट नहीं होता",
+      "आवेश नष्ट होता है",
+      "आवेश का निर्माण होता है",
+      "इनमें से कोई नहीं"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "ध्वनि का स्रोत?",
+    "options": [
+      "प्रकाश",
+      "तापमान",
+      "कंपन",
+      "विभवांतर"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 98,
+    "question": "परमाणु का सबसे हल्का तत्व?",
+    "options": [
+      "हाइड्रोजन",
+      "हीलियम",
+      "लिथियम",
+      "ऑक्सीजन"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "विद्युत ऊर्जा का सूत्र?",
+    "options": [
+      "E = P/t",
+      "E = t/P",
+      "E = Pt",
+      "E = V/I"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 100,
+    "question": "Physics का जनक किसे कहा जाता है?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Aristotle",
+      "Isaac Newton"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 101,
+    "question": "Water का रासायनिक सूत्र क्या है?",
+    "options": [
+      "CO₂",
+      "H₂O",
+      "NaCl",
+      "HCl"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 102,
+    "question": "Hydrogen की परमाणु संख्या?",
+    "options": [
+      "2",
+      "1",
+      "6",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "question": "NaCl क्या है?",
+    "options": [
+      "Element",
+      "Mixture",
+      "Compound",
+      "Gas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 104,
+    "question": "सबसे हल्का तत्व कौन-सा है?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Oxygen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "question": "ऑक्सीजन का प्रतीक?",
+    "options": [
+      "O",
+      "Ox",
+      "O₂",
+      "Oz"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "question": "pH = 7 क्या दर्शाता है?",
+    "options": [
+      "Acidic solution",
+      "Basic solution",
+      "Neutral solution",
+      "Buffer solution"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 107,
+    "question": "HCl किस प्रकार का अम्ल है?",
+    "options": [
+      "Weak acid",
+      "Organic acid",
+      "Strong acid",
+      "Neutral acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 108,
+    "question": "CaCO₃ का सामान्य नाम?",
+    "options": [
+      "Baking soda",
+      "Limestone",
+      "Washing soda",
+      "Bleaching powder"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "question": "सबसे कठोर प्राकृतिक पदार्थ?",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Iron",
+      "Platinum"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "question": "CO₂ गैस चूने के पानी को क्या बनाती है?",
+    "options": [
+      "Blue",
+      "Red",
+      "Colorless",
+      "Milky"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 111,
+    "question": "इलेक्ट्रॉन का आवेश?",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral",
+      "Both"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 112,
+    "question": "प्रोटॉन का आवेश?",
+    "options": [
+      "Negative",
+      "Neutral",
+      "Positive",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 113,
+    "question": "न्यूट्रॉन का आवेश?",
+    "options": [
+      "Positive",
+      "Neutral",
+      "Negative",
+      "Variable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 114,
+    "question": "परमाणु का केंद्र?",
+    "options": [
+      "Nucleus",
+      "Electron cloud",
+      "Orbit",
+      "Shell"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "question": "आवर्त सारणी का जनक?",
+    "options": [
+      "Moseley",
+      "Dalton",
+      "Newlands",
+      "Mendeleev"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 116,
+    "question": "Na किस समूह में है?",
+    "options": [
+      "Group 1",
+      "Group 2",
+      "Group 17",
+      "Group 18"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "question": "Cl किस समूह में है?",
+    "options": [
+      "Group 17",
+      "Group 1",
+      "Group 2",
+      "Group 16"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "question": "Noble gas का उदाहरण?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "question": "सबसे अधिक विद्युत ऋणात्मक तत्व?",
+    "options": [
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 120,
+    "question": "धातु और अधातु के बीच बनने वाला बंध?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 121,
+    "question": "H₂SO₄ का नाम?",
+    "options": [
+      "Nitric acid",
+      "Sulphuric acid",
+      "Hydrochloric acid",
+      "Acetic acid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 122,
+    "question": "HNO₃ का नाम?",
+    "options": [
+      "Sulphuric acid",
+      "Phosphoric acid",
+      "Nitric acid",
+      "Carbonic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 123,
+    "question": "NaOH क्या है?",
+    "options": [
+      "Acid",
+      "Salt",
+      "Gas",
+      "Base"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 124,
+    "question": "Litmus अम्ल में कैसा होता है?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "question": "Litmus क्षार में कैसा होता है?",
+    "options": [
+      "Blue",
+      "Red",
+      "Pink",
+      "Colorless"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "question": "Universal indicator किसे दर्शाता है?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "pH",
+      "Density"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 127,
+    "question": "Acid + Base → ?",
+    "options": [
+      "Salt + Water",
+      "Gas + Water",
+      "Acid + Salt",
+      "Base + Gas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "question": "Common salt का सूत्र?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "MgCl₂",
+      "CaCl₂"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "question": "Baking soda का सूत्र?",
+    "options": [
+      "Na₂CO₃",
+      "NaOH",
+      "NaCl",
+      "NaHCO₃"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 130,
+    "question": "Washing soda का सूत्र?",
+    "options": [
+      "NaHCO₃",
+      "NaOH",
+      "CaSO₄·2H₂O",
+      "Na₂CO₃·10H₂O"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 131,
+    "question": "LPG का मुख्य घटक?",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Butane",
+      "Propane"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 132,
+    "question": "CNG का मुख्य घटक?",
+    "options": [
+      "Butane",
+      "Methane",
+      "Propane",
+      "Ethane"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 133,
+    "question": "Methane का सूत्र?",
+    "options": [
+      "C₂H6",
+      "CH₄",
+      "C₂H₄",
+      "C₂H₂"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 134,
+    "question": "Ethane का सूत्र?",
+    "options": [
+      "CH₄",
+      "C₂H₄",
+      "C₃H₈",
+      "C₂H₆"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 135,
+    "question": "Ethene का सूत्र?",
+    "options": [
+      "C₂H₆",
+      "C₂H₂",
+      "CH₄",
+      "C₂H₄"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 136,
+    "question": "Ethyne का सूत्र?",
+    "options": [
+      "C₂H₄",
+      "C₂H₆",
+      "C₃H₄",
+      "C₂H₂"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 137,
+    "question": "Hydrocarbon में कौन-से तत्व होते हैं?",
+    "options": [
+      "Carbon and Hydrogen",
+      "Carbon and Oxygen",
+      "Hydrogen and Oxygen",
+      "Nitrogen and Hydrogen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 138,
+    "question": "Petroleum से प्राप्त ईंधन?",
+    "options": [
+      "Petrol",
+      "Coal",
+      "LPG",
+      "Wood"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "question": "Coal gas का मुख्य घटक?",
+    "options": [
+      "Methane",
+      "Butane",
+      "Hydrogen",
+      "Carbon monoxide"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 140,
+    "question": "Carbon की संयोजकता?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 141,
+    "question": "ऑक्सीकरण में क्या होता है?",
+    "options": [
+      "Oxygen removal",
+      "Oxygen addition",
+      "Hydrogen addition",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "question": "अपचयन में क्या होता है?",
+    "options": [
+      "Oxygen addition",
+      "Oxygen removal",
+      "Nitrogen addition",
+      "Electron loss"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 143,
+    "question": "जंग लगना किसका उदाहरण है?",
+    "options": [
+      "Reduction",
+      "Electrolysis",
+      "Neutralization",
+      "Oxidation"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 144,
+    "question": "Fe₂O₃ क्या है?",
+    "options": [
+      "Copper",
+      "Water",
+      "Rust",
+      "Acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 145,
+    "question": "Electrolysis में ऊर्जा का रूपांतरण?",
+    "options": [
+      "Chemical → Electrical",
+      "Electrical → Chemical",
+      "Mechanical → Electrical",
+      "Heat → Electrical"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 146,
+    "question": "Anode पर कौन-सी प्रक्रिया होती है?",
+    "options": [
+      "Reduction",
+      "Neutralization",
+      "Oxidation",
+      "Electrolysis"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 147,
+    "question": "Cathode पर कौन-सी प्रक्रिया होती है?",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Combustion",
+      "Decomposition"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 148,
+    "question": "Copper का प्रतीक?",
+    "options": [
+      "Cu",
+      "Co",
+      "Cr",
+      "Ca"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 149,
+    "question": "Silver का प्रतीक?",
+    "options": [
+      "Au",
+      "Ag",
+      "Si",
+      "Al"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "question": "Gold का प्रतीक?",
+    "options": [
+      "Ag",
+      "Gd",
+      "Au",
+      "Fe"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 151,
+    "question": "Zn का नाम?",
+    "options": [
+      "Zinc",
+      "Iron",
+      "Lead",
+      "Mercury"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 152,
+    "question": "Fe का नाम?",
+    "options": [
+      "Zinc",
+      "Fluorine",
+      "Iron",
+      "Copper"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 153,
+    "question": "Pb का नाम?",
+    "options": [
+      "Phosphorus",
+      "Potassium",
+      "Boron",
+      "Lead"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 154,
+    "question": "Hg का नाम?",
+    "options": [
+      "Hydrogen",
+      "Mercury",
+      "Helium",
+      "Silver"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 155,
+    "question": "Al का नाम?",
+    "options": [
+      "Silver",
+      "Argon",
+      "Gold",
+      "Aluminium"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 156,
+    "question": "सबसे प्रचुर धातु?",
+    "options": [
+      "Iron",
+      "Aluminium",
+      "Copper",
+      "Gold"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 157,
+    "question": "सबसे प्रचुर गैस?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 158,
+    "question": "वायु में ऑक्सीजन प्रतिशत?",
+    "options": [
+      "78%",
+      "0.03%",
+      "1%",
+      "21%"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 159,
+    "question": "Ozone का सूत्र?",
+    "options": [
+      "O₃",
+      "O₂",
+      "O₄",
+      "H₂O"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 160,
+    "question": "Ozone किसे रोकती है?",
+    "options": [
+      "X-rays",
+      "Gamma rays",
+      "Infrared rays",
+      "UV rays"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 161,
+    "question": "Polymer का उदाहरण?",
+    "options": [
+      "Polythene",
+      "Glucose",
+      "Water",
+      "Salt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 162,
+    "question": "PVC का पूरा नाम?",
+    "options": [
+      "Polyvinyl Chloride",
+      "Phospho Vinyl Carbon",
+      "Poly Vanadium Chloride",
+      "Plastic Vinyl Chloride"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 163,
+    "question": "Nylon क्या है?",
+    "options": [
+      "Polymer",
+      "Monomer",
+      "Metal",
+      "Acid"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 164,
+    "question": "Soap किसका लवण है?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulphuric acid",
+      "Fatty acid",
+      "Nitric acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 165,
+    "question": "Detergent का उपयोग?",
+    "options": [
+      "Cooking",
+      "Painting",
+      "Cleaning",
+      "Welding"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 166,
+    "question": "Urea का सूत्र?",
+    "options": [
+      "NH₄Cl",
+      "NaCl",
+      "CH₄",
+      "CO(NH₂)₂"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 167,
+    "question": "Ammonia का सूत्र?",
+    "options": [
+      "NH₃",
+      "NH₄",
+      "N₂",
+      "HNO₃"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 168,
+    "question": "Fertilizer का उदाहरण?",
+    "options": [
+      "Glucose",
+      "Starch",
+      "Cellulose",
+      "Urea"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 169,
+    "question": "Gypsum का सूत्र?",
+    "options": [
+      "CaSO₄·½H₂O",
+      "CaCO₃",
+      "CaSO₄·2H₂O",
+      "CuSO₄·5H₂O"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 170,
+    "question": "Plaster of Paris का सूत्र?",
+    "options": [
+      "CaSO₄·2H₂O",
+      "Na₂CO3",
+      "CaSO₄·½H₂O",
+      "CaO"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 171,
+    "question": "Bleaching powder का सूत्र?",
+    "options": [
+      "CaOCl₂",
+      "CaCO₃",
+      "CaCl₂",
+      "Ca(OH)₂"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 172,
+    "question": "Vinegar में कौन-सा अम्ल होता है?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Lactic acid",
+      "Formic acid"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 173,
+    "question": "Lemon में कौन-सा अम्ल?",
+    "options": [
+      "Acetic acid",
+      "Tartaric acid",
+      "Oxalic acid",
+      "Citric acid"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 174,
+    "question": "Tamarind में कौन-सा अम्ल?",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Tartaric acid",
+      "Oxalic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 175,
+    "question": "Ant sting में कौन-सा अम्ल?",
+    "options": [
+      "Lactic acid",
+      "Acetic acid",
+      "Tartaric acid",
+      "Formic acid"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 176,
+    "question": "Milk में कौन-सा अम्ल?",
+    "options": [
+      "Lactic acid",
+      "Citric acid",
+      "Formic acid",
+      "Malic acid"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 177,
+    "question": "Battery acid?",
+    "options": [
+      "HCl",
+      "H₂SO₄",
+      "HNO₃",
+      "CH₃COOH"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 178,
+    "question": "Dry ice क्या है?",
+    "options": [
+      "Liquid Nitrogen",
+      "Solid H₂O",
+      "Solid CO₂",
+      "Frozen Methane"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 179,
+    "question": "Laughing gas?",
+    "options": [
+      "N₂O",
+      "NO₂",
+      "CO",
+      "SO₂"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 180,
+    "question": "Water gas?",
+    "options": [
+      "CO + H₂",
+      "CO₂ + H₂",
+      "CH₄ + O₂",
+      "CO + N₂"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 181,
+    "question": "Greenhouse gas?",
+    "options": [
+      "O₂",
+      "CO₂",
+      "N₂",
+      "Ar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 182,
+    "question": "Photosynthesis में कौन-सी गैस उपयोग होती है?",
+    "options": [
+      "O₂",
+      "H₂",
+      "CO₂",
+      "N₂"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 183,
+    "question": "Respiration में कौन-सी गैस निकलती है?",
+    "options": [
+      "O₂",
+      "CO",
+      "N₂",
+      "CO₂"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 184,
+    "question": "Hydrogen जलने पर क्या बनता है?",
+    "options": [
+      "Carbon dioxide",
+      "Hydrogen peroxide",
+      "Acid",
+      "Water"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 185,
+    "question": "सबसे प्रतिक्रियाशील धातु?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Potassium",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 186,
+    "question": "सबसे प्रतिक्रियाशील अधातु?",
+    "options": [
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 187,
+    "question": "Stainless steel में मुख्य तत्व?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Iron",
+      "Zinc"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 188,
+    "question": "Brass किसका मिश्रधातु है?",
+    "options": [
+      "Copper + Tin",
+      "Lead + Tin",
+      "Copper + Zinc",
+      "Iron + Carbon"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 189,
+    "question": "Bronze किसका मिश्रधातु है?",
+    "options": [
+      "Copper + Zinc",
+      "Lead + Tin",
+      "Nickel + Chromium",
+      "Copper + Tin"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 190,
+    "question": "Solder किसका मिश्रधातु है?",
+    "options": [
+      "Lead + Tin",
+      "Copper + Zinc",
+      "Copper + Tin",
+      "Aluminum + Magnesium"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 191,
+    "question": "Atom का सबसे छोटा कण?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Molecule"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 192,
+    "question": "Mole concept किस वैज्ञानिक ने दिया?",
+    "options": [
+      "Avogadro",
+      "Dalton",
+      "Rutherford",
+      "Newton"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 193,
+    "question": "Avogadro संख्या?",
+    "options": [
+      "6.022 × 10²²",
+      "9.8 × 10¹¹",
+      "6.022 × 10²³",
+      "1.6 × 10⁻¹⁹"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 194,
+    "question": "1 mole H₂O में कितने अणु होते हैं?",
+    "options": [
+      "6.022 × 10²³",
+      "6.022 × 10²¹",
+      "3.011 × 10²³",
+      "12.044 × 10²³"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 195,
+    "question": "CO का नाम?",
+    "options": [
+      "Carbon monoxide",
+      "Carbon dioxide",
+      "Carbon oxide",
+      "Carbohydrate"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 196,
+    "question": "CO₂ का नाम?",
+    "options": [
+      "Carbon monoxide",
+      "Carbon trioxide",
+      "Carbon dioxide",
+      "Carbonate"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 197,
+    "question": "NH₄OH क्या है?",
+    "options": [
+      "Ammonium hydroxide",
+      "Ammonia water",
+      "Sodium hydroxide",
+      "Nitric acid"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 198,
+    "question": "H₂O₂ क्या है?",
+    "options": [
+      "Water",
+      "Heavy water",
+      "Hydrochloric acid",
+      "Hydrogen peroxide"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 199,
+    "question": "Periodic table में कुल कितने periods हैं?",
+    "options": [
+      "7",
+      "18",
+      "8",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 200,
+    "question": "Periodic table में कुल कितने groups हैं?",
+    "options": [
+      "7",
+      "9",
+      "16",
+      "18"
+    ],
+    "answer": 3
+  }
+]
